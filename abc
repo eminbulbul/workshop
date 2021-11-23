@@ -1,0 +1,4 @@
+complex()
+Sayılardan söz ederken, eğer matematikle çok fazla içli dışlı değilseniz pek karşılaşmayacağınız, ‘karmaşık sayı’ adlı bir sayı türünden de bahsetmiştik. Karmaşık sayılar, bir gerçek, bir de sanal kısımdan oluşan sayılardır.
+
+Karmaşık sayılar Python’da ‘complex’ ifadesiyle gösteriliyor. Mesela şu bir karmaşık sayıdır:
